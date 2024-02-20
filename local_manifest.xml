@@ -6,5 +6,5 @@
         <!-- Trees -->
   <project path="device/realme/RMX1901" name="android_device_realme_RMX1901_A14" remote="shravansayz" revision="rising" />
   <project path="kernel/realme/RMX1901" name="android_kernel_realme_sdm710" remote="shravansayz" revision="14-ksu" />
-  <project path="vendor/realme/RMX1901" name="android_vendor_realme_A14" remote="shravansayz" revision="14" />
+  <project path="vendor/realme/RMX1901" name="android_vendor_RMX1901_A14" remote="shravansayz" revision="14" />
 </manifest>
